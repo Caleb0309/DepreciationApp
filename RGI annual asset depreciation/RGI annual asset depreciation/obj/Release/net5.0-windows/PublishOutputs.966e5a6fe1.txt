@@ -1,0 +1,5 @@
+C:\Onedrive\OneDrive - HR & Skills Market (Pty) Ltd\Desktop\Personal\Private\RGI annual asset depreciation.exe
+C:\Onedrive\OneDrive - HR & Skills Market (Pty) Ltd\Desktop\Personal\Private\RGI annual asset depreciation.dll
+C:\Onedrive\OneDrive - HR & Skills Market (Pty) Ltd\Desktop\Personal\Private\RGI annual asset depreciation.deps.json
+C:\Onedrive\OneDrive - HR & Skills Market (Pty) Ltd\Desktop\Personal\Private\RGI annual asset depreciation.runtimeconfig.json
+C:\Onedrive\OneDrive - HR & Skills Market (Pty) Ltd\Desktop\Personal\Private\RGI annual asset depreciation.pdb
